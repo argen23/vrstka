@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">vrstka</string>
+    <string name="delta">delta</string>
+    <string name="argen">argen</string>
+    <string name="argen_omarbekov">argen omarbekov</string>
+    <string name="passenger">passenger:</string>
+    <string name="jfk">jfk</string>
+    <string name="new_york_city">new york city</string>
+    <string name="depart">depart</string>
+    <string name="_8_00_am">8:00 am</string>
+    <string name="_11_17_am">11:17 am</string>
+    <string name="pass">passenger</string>
+    <string name="boarding_begins">boarding begins</string>
+    <string name="_7_30am">7:30am</string>
+    <string name="arrive">arrive</string>
+    <string name="seattle">seattle</string>
+    <string name="sea">sea</string>
+    <string name="gate">gate</string>
+    <string name="d4">d4</string>
+    <string name="seat">seat</string>
+    <string name="_3c">3c</string>
+    <string name="flight">flight</string>
+    <string name="flight_num">d2218</string>
+</resources>
